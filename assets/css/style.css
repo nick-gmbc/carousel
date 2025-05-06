@@ -3,3 +3,9 @@
 body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+
+.carousel-format {
+    width:500px; 
+    margin-left:auto; 
+    margin-right:auto;
+}
